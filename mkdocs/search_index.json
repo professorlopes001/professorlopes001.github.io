@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Professor Lopes\n\n\nApresenta\u00e7\u00e3o\n\n\nEste \nsite\n est\u00e1 sendo criado e constantemente atualizado gra\u00e7as \u00e0s excelentes, fant\u00e1sticas e gratuitas ferramentas \nMkDocs\n, \nGitHub\n, \nGitHub Pages\n, al\u00e9m da utiliza\u00e7\u00e3o do tema \nMaterial\n, constru\u00eddo especificamente para os utilizadores do \nMkDocs\n. Se voc\u00ea estiver seriamente interessado em construir seu pr\u00f3prio \nsite\n de forma simples, a fim de preocupar-se apenas com o conte\u00fado a ser publicado, pode acreditar, este \u00e9 um \u00f3timo caminho!\n\n\nMkDocs\n\n\nVeja alguns t\u00f3picos traduzidos da primeira p\u00e1gina de sua \nhome page\n:\n\n\nVis\u00e3o geral\n\n\nO MkDocs \u00e9 um gerador de \nsite\n est\u00e1vel, r\u00e1pido, simples e absolutamente original, orientado para a constru\u00e7\u00e3o de documenta\u00e7\u00e3o de projetos(1). Os arquivos de origem da documenta\u00e7\u00e3o s\u00e3o escritos em Markdown e configurados com um \u00fanico arquivo de configura\u00e7\u00e3o YAML.\n\n\n(1) \nProfessor Lopes:\n \nRapidamente voc\u00ea perceber\u00e1 que pode utilizar esta constru\u00e7\u00e3o para escrever seus artigos (cient\u00edficos ou n\u00e3o) e outras formas de publica\u00e7\u00e3o, com a mesma facilidade\n.\n\n\nHospede em qualquer lugar\n\n\nO MkDocs cria \nsites\n em  HTML completamente est\u00e1ticos que voc\u00ea pode hospedar nas p\u00e1ginas do GitHub, Amazon S3 ou em \nqualquer outro lugar\n que voc\u00ea escolher.\n\n\n\u00d3timos temas dispon\u00edveis\n\n\nH\u00e1 uma cole\u00e7\u00e3o de temas de boa apar\u00eancia dispon\u00edveis para o MkDocs. Escolha entre os temas incorporados: \nmkdocs\n ou \nreadthedocs\n, selecione um dos temas de terceiros no \nwiki MkDocs\n, ou \ncrie o seu pr\u00f3prio\n.\n\n\nVisualize seu site enquanto trabalha\n\n\nO \nbuilt-in dev-server\n permite visualizar sua documenta\u00e7\u00e3o conforme voc\u00ea est\u00e1 escrevendo. At\u00e9 recarregar\u00e1 automaticamente e atualizar\u00e1 seu navegador, sempre que voc\u00ea salvar suas altera\u00e7\u00f5es.\n\n\nF\u00e1cil de personalizar\n\n\nEscreva a documenta\u00e7\u00e3o do seu projeto exatamente do jeito que quiser, personalizando o tema.\n\n\nCriando e construindo suas publica\u00e7\u00f5es\n\n\nDepois de instalado, basta criar, no local que quiser, uma pasta e nome\u00e1-la. Abra seu terminal de comando preferido (cmd, powershell, entre outros) nesta pasta criada, siga as instru\u00e7\u00f5es e, com os comandos abaixo, seu \nsite\n estar\u00e1 iniciado e pronto para publica\u00e7\u00e3o. Ap\u00f3s isso, pode personaliz\u00e1-lo como lhe convier, al\u00e9m, \u00e9 evidente, de iniciar suas cria\u00e7\u00f5es e publica\u00e7\u00f5es.\n\n\n\n\nmkdocs new [dir-name]\n - Crie um novo projeto.\n\n\nmkdocs serve\n - Inicie o servidor de recarregamento do documento, em tempo real.\n\n\nmkdocs build\n - Construa o site de documenta\u00e7\u00e3o.\n\n\nmkdocs help\n - Imprima esta mensagem de ajuda.\n\n\n\n\nFormatando suas publica\u00e7\u00f5es\n\n\nmkdocs.yml    # O arquivo de configura\u00e7\u00e3o.\ndocs/\n    index.md # A p\u00e1gina inicial da documenta\u00e7\u00e3o.\n\u00a0\u00a0\u00a0\u00a0...      # Outras p\u00e1ginas em markdown, imagens e outros arquivos.",
+            "title": "Apresenta\u00e7\u00e3o"
+        },
+        {
+            "location": "/#professor-lopes",
+            "text": "",
+            "title": "Professor Lopes"
+        },
+        {
+            "location": "/#apresentacao",
+            "text": "Este  site  est\u00e1 sendo criado e constantemente atualizado gra\u00e7as \u00e0s excelentes, fant\u00e1sticas e gratuitas ferramentas  MkDocs ,  GitHub ,  GitHub Pages , al\u00e9m da utiliza\u00e7\u00e3o do tema  Material , constru\u00eddo especificamente para os utilizadores do  MkDocs . Se voc\u00ea estiver seriamente interessado em construir seu pr\u00f3prio  site  de forma simples, a fim de preocupar-se apenas com o conte\u00fado a ser publicado, pode acreditar, este \u00e9 um \u00f3timo caminho!",
+            "title": "Apresenta\u00e7\u00e3o"
+        },
+        {
+            "location": "/#mkdocs",
+            "text": "Veja alguns t\u00f3picos traduzidos da primeira p\u00e1gina de sua  home page :",
+            "title": "MkDocs"
+        },
+        {
+            "location": "/#visao-geral",
+            "text": "O MkDocs \u00e9 um gerador de  site  est\u00e1vel, r\u00e1pido, simples e absolutamente original, orientado para a constru\u00e7\u00e3o de documenta\u00e7\u00e3o de projetos(1). Os arquivos de origem da documenta\u00e7\u00e3o s\u00e3o escritos em Markdown e configurados com um \u00fanico arquivo de configura\u00e7\u00e3o YAML.  (1)  Professor Lopes:   Rapidamente voc\u00ea perceber\u00e1 que pode utilizar esta constru\u00e7\u00e3o para escrever seus artigos (cient\u00edficos ou n\u00e3o) e outras formas de publica\u00e7\u00e3o, com a mesma facilidade .",
+            "title": "Vis\u00e3o geral"
+        },
+        {
+            "location": "/#hospede-em-qualquer-lugar",
+            "text": "O MkDocs cria  sites  em  HTML completamente est\u00e1ticos que voc\u00ea pode hospedar nas p\u00e1ginas do GitHub, Amazon S3 ou em  qualquer outro lugar  que voc\u00ea escolher.",
+            "title": "Hospede em qualquer lugar"
+        },
+        {
+            "location": "/#otimos-temas-disponiveis",
+            "text": "H\u00e1 uma cole\u00e7\u00e3o de temas de boa apar\u00eancia dispon\u00edveis para o MkDocs. Escolha entre os temas incorporados:  mkdocs  ou  readthedocs , selecione um dos temas de terceiros no  wiki MkDocs , ou  crie o seu pr\u00f3prio .",
+            "title": "\u00d3timos temas dispon\u00edveis"
+        },
+        {
+            "location": "/#visualize-seu-site-enquanto-trabalha",
+            "text": "O  built-in dev-server  permite visualizar sua documenta\u00e7\u00e3o conforme voc\u00ea est\u00e1 escrevendo. At\u00e9 recarregar\u00e1 automaticamente e atualizar\u00e1 seu navegador, sempre que voc\u00ea salvar suas altera\u00e7\u00f5es.",
+            "title": "Visualize seu site enquanto trabalha"
+        },
+        {
+            "location": "/#facil-de-personalizar",
+            "text": "Escreva a documenta\u00e7\u00e3o do seu projeto exatamente do jeito que quiser, personalizando o tema.",
+            "title": "F\u00e1cil de personalizar"
+        },
+        {
+            "location": "/#criando-e-construindo-suas-publicacoes",
+            "text": "Depois de instalado, basta criar, no local que quiser, uma pasta e nome\u00e1-la. Abra seu terminal de comando preferido (cmd, powershell, entre outros) nesta pasta criada, siga as instru\u00e7\u00f5es e, com os comandos abaixo, seu  site  estar\u00e1 iniciado e pronto para publica\u00e7\u00e3o. Ap\u00f3s isso, pode personaliz\u00e1-lo como lhe convier, al\u00e9m, \u00e9 evidente, de iniciar suas cria\u00e7\u00f5es e publica\u00e7\u00f5es.   mkdocs new [dir-name]  - Crie um novo projeto.  mkdocs serve  - Inicie o servidor de recarregamento do documento, em tempo real.  mkdocs build  - Construa o site de documenta\u00e7\u00e3o.  mkdocs help  - Imprima esta mensagem de ajuda.",
+            "title": "Criando e construindo suas publica\u00e7\u00f5es"
+        },
+        {
+            "location": "/#formatando-suas-publicacoes",
+            "text": "mkdocs.yml    # O arquivo de configura\u00e7\u00e3o.\ndocs/\n    index.md # A p\u00e1gina inicial da documenta\u00e7\u00e3o.\n\u00a0\u00a0\u00a0\u00a0...      # Outras p\u00e1ginas em markdown, imagens e outros arquivos.",
+            "title": "Formatando suas publica\u00e7\u00f5es"
+        },
+        {
+            "location": "/matematika1/",
+            "text": "Esta p\u00e1gina est\u00e1 voltada, por enquanto, \u00e0 conex\u00e3o com este outro \nsite\n, tamb\u00e9m criado aqui, no GitHub Pages. Ele estar\u00e1 aqui: \nMatematika1\n.",
+            "title": "Matematika1"
+        },
+        {
+            "location": "/about/",
+            "text": "Este \nsite\n servir\u00e1 aos meus estudos, pequisas e conclus\u00f5es para cria\u00e7\u00e3o, constru\u00e7\u00e3o, edi\u00e7\u00e3o, manuten\u00e7\u00e3o e atualiza\u00e7\u00e3o de conte\u00fados, (\nvia\n ferramentas citadas anteriormente), resultados desses estudos, al\u00e9m de textos matem\u00e1ticos, retirados, principalmente, de anota\u00e7\u00f5es obtidas ao longo dos meus anos no exerc\u00edcio do magist\u00e9rio. A matem\u00e1tica, al\u00e9m de uma paix\u00e3o, trouxe a mim a oportunidade de dividir o pouco do meu aprendizado, com todas as pessoas que, deste espa\u00e7o, fizerem uso. Na maioria das vezes, ser\u00e3o publicados artigos que podem conter teorias e/ou exerc\u00edcios relevantes aos ensinos fundamental e m\u00e9dio, al\u00e9m de conte\u00fado program\u00e1tico de cursos pr\u00e9-vestibulares, \u00e1reas em que atuei majoritariamente. Assuntos de cunho univers\u00edt\u00e1rio, apenas aqueles que eu os considere (re)estud\u00e1-los, devido, principalmente, ao longo tempo que n\u00e3o os tenho contatados.\n\n\n\n\nCompartilhando\n\n\nAgrade\u00e7o desde j\u00e1, e sempre agradecerei, \ntodas\n as formas de comunica\u00e7\u00e3o que me fizerem, sejam para criticar, corrigir, sugestionar ou elogiar este projeto. A mais simples das maneiras, \u00e9 voc\u00ea entrar em contato comigo atrav\u00e9s do email: \nprofessorlopes001@gmail.com\n.\n\n\nFinalmente, haver\u00e1 um segundo \nsite\n, chamado \"Matematika1\", acoplado a este, digamos, como um \nsub-site\n. O que vou fazer l\u00e1, ainda n\u00e3o est\u00e1 muito claro, pois somente a ideia de \nlink\u00e1-lo\n \u00e9 que est\u00e1 sendo inicialmente testado, mas, pelo nome, j\u00e1 se imagina sobre o que ser\u00e1....",
+            "title": "Sobre"
+        },
+        {
+            "location": "/about/#compartilhando",
+            "text": "Agrade\u00e7o desde j\u00e1, e sempre agradecerei,  todas  as formas de comunica\u00e7\u00e3o que me fizerem, sejam para criticar, corrigir, sugestionar ou elogiar este projeto. A mais simples das maneiras, \u00e9 voc\u00ea entrar em contato comigo atrav\u00e9s do email:  professorlopes001@gmail.com .  Finalmente, haver\u00e1 um segundo  site , chamado \"Matematika1\", acoplado a este, digamos, como um  sub-site . O que vou fazer l\u00e1, ainda n\u00e3o est\u00e1 muito claro, pois somente a ideia de  link\u00e1-lo  \u00e9 que est\u00e1 sendo inicialmente testado, mas, pelo nome, j\u00e1 se imagina sobre o que ser\u00e1....",
+            "title": "Compartilhando"
+        }
+    ]
+}
